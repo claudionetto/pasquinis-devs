@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   background-color: white;
-  height: 100px;
+  height: 80px;
   justify-content: center;
   align-items: center;
   position: fixed;
@@ -65,7 +65,7 @@ body {
 }
 
 .header {
-  padding-top: 100px;
+  padding-top: 80px;
   display: flex;
   flex-flow: row wrap;
   height: 600px;
@@ -106,7 +106,7 @@ body {
 }
 
 .img-headline {
-  margin-right: 10%;
+  margin-right: 5%;
   flex: 40%;
   text-align: center;
 }
@@ -129,15 +129,6 @@ section h2 {
   font-size: 50px;
   margin: 0;
   font-family: "Lobster", cursive;
-  font-weight: bold;
-  color: #00adcb;
-}
-
-section h3 {
-  width: 100%;
-  font-size: 40px;
-  margin: 0;
-  margin-top: 20px;
   font-weight: bold;
   color: #00adcb;
 }
