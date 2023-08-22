@@ -65,6 +65,7 @@ body {
 }
 
 .header {
+  
   padding-top: 80px;
   display: flex;
   flex-flow: row wrap;
@@ -109,13 +110,16 @@ body {
   margin-right: 5%;
   flex: 40%;
   text-align: center;
+  border: 1px solid red;
 }
 
 .img-headline img {
   max-width: 90%;
+  
 }
 
 section {
+  border: 1px solid blue;
   display: inline-block;
   margin-top: 80px;
   margin-left: 5%;

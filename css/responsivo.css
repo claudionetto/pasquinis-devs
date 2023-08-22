@@ -1,5 +1,4 @@
 
-
 @media screen and (max-width: 1024px) {
   .menu {
     display: none;
@@ -44,5 +43,23 @@
   .card {
     width: 100%;
   }
+}
+
+@media screen and (max-width: 500px) { 
+
+  section {
+    border: 1px solid green;
+    margin-top: 325px;
+  }
+
+}
+
+@media screen and (max-width: 350px) { 
+
+  section {
+    border: 1px solid green;
+    margin-top: 400px;
+  }
+
 }
 
